@@ -1,4 +1,4 @@
-function teskPushFromCommandline() {
+function editedInGasEditor() {
   
     
 }
