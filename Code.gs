@@ -1,5 +1,4 @@
-function editedInKomodo() {
+function teskPushFromCommandline() {
   
-  
-  
+    
 }
